@@ -1,0 +1,9 @@
+# ignoring all hidden files
+.*
+# un-ignoring gitignore
+!/.gitignore
+
+# ignoring hdf5 files
+*hdf5
+
+__pycache__/
